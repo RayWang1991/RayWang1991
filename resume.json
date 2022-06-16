@@ -20,6 +20,7 @@
     "zhihu": "",
     "workPlace": "杭州",
     "workExpYear": "6年",
+    "birthday": "1234",
     "positionTitle": "后端开发工程师"
   },
   "educationList": [
@@ -191,7 +192,7 @@
     }
   ],
   "aboutme": {
-    "aboutme_desc": "近2年管理经验，最大管理幅度13人\n丰富的2BSaaS电商系统设计与落地经验\n熟悉Java后端相关技术栈\n长期健身，原地起跳扣篮\n"
+    "aboutme_desc": "近2年管理经验，最大管理幅度13人\n丰富的2BSaaS电商系统设计与落地经验\n熟悉Java后端相关技术栈\n长期健身，原地起跳扣篮\n\n\n"
   },
   "theme": {
     "color": "#2f5785",
